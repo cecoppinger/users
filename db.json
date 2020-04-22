@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Clarence",
+      "lastName": "Coppinger"
+    },
+    {
+      "id": 2,
+      "firstName": "Stooge",
+      "lastName": "Simpson"
+    }
+  ],
+  "colors": [
+    {
+      "name": "Blue"
+    },
+    {
+      "name": "Orange"
+    },
+    {
+      "name": "Purple"
+    }
+  ]
+}
